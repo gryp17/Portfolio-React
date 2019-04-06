@@ -77,7 +77,7 @@ class Portfolio extends React.Component {
 				{this.state.projects ? 
 					<React.Fragment>
 						<header>
-							test
+							Portfolio Plamen Ivanov
 						</header>
 
 						<ProjectsViewer projects={this.state.projects}/>
