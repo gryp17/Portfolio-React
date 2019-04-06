@@ -1,0 +1,431 @@
+[
+	{
+		"title": "jFighter JS",
+		"class": "jfighter-js",
+		"background": "#2980b9",
+		"color": "#ffffff",
+		"link": "projects/jfighter-js/",
+		"source": "https://github.com/gryp17/JFighter",
+		"images": [
+			"jfighter-js/1.png",
+            "jfighter-js/2.png",
+            "jfighter-js/3.png",
+            "jfighter-js/4.png",
+            "jfighter-js/5.png",
+			"jfighter-js/6.png",
+			"jfighter-js/7.png",
+			"jfighter-js/8.png"
+		],
+		"development": "November 2016 - June 2018",
+		"technologies": [
+			"HTML5 canvas",
+			"CSS (SASS)",
+			"Javascript",
+			"jQuery",
+            "Gulp"
+		],
+		"template": "jfighter-js.html"
+	},
+	{
+		"title": "Tic Tac Toe",
+		"class": "ttt",
+		"background": "#27ae60",
+		"color": "#ffffff",
+		"source": "https://github.com/gryp17/Tic-Tac-Toe",
+		"images": [
+			"tic-tac-toe/1.jpg",
+            "tic-tac-toe/2.jpg",
+            "tic-tac-toe/3.jpg",
+            "tic-tac-toe/4.jpg",
+            "tic-tac-toe/5.jpg"
+		],
+		"development": "April 2017 - February 2018",
+		"technologies": [
+			"HTML",
+			"CSS (SASS)",
+			"NodeJS/Express",
+            "Socket.IO",
+			"MySQL",
+			"JQuery",
+			"AJAX",
+			"JSON",
+			"Bootstrap 3",
+            "Gulp"
+		],
+		"template": "tic-tac-toe.html"
+	},
+    {
+		"title": "My Dictionary",
+		"class": "mdc",
+		"background": "#6C7A89",
+		"color": "#ffffff",
+		"link": "projects/mydictionary/",
+		"source": "https://github.com/gryp17/MyDictionary",
+		"images": [
+			"my-dictionary/1.jpg",
+			"my-dictionary/2.jpg"
+		],
+		"development": "January 2018",
+		"technologies": [
+			"HTML",
+			"CSS",
+			"PHP",
+			"Custom MVC framework",
+			"MySQL",
+			"AngularJS",
+			"AJAX",
+			"JSON",
+			"jQuery",
+			"Bootstrap 4",
+			"Flexbox"
+		],
+		"template": "my-dictionary.html"
+	},
+	{
+		"title": "Social Command Center",
+		"class": "scc",
+		"background": "#F6834C",
+		"color": "#ffffff",
+		"images": [
+			"scc/1.jpg",
+			"scc/2.jpg",
+			"scc/3.jpg",
+			"scc/4.jpg"
+		],
+		"development": "September 2016 - present",
+		"technologies": [
+			"HTML",
+			"CSS (SASS)",
+			"NodeJS (loopback, Express)",
+			"AngularJS",
+			"MySQL",
+			"jQuery / jQueryUI",
+			"Google Charts",
+			"Bootstrap 4",
+			"Webpack",
+			"Gulp"
+		],
+		"template": "scc.html"
+	},
+	{
+		"title": "Tablaturi-bg AngularJS",
+		"class": "tablaturi-bg-ng",
+		"background": "#F84241",
+		"color": "#ffffff",
+		"link": "http://www.tablaturi-bg.com",
+		"source": "https://github.com/gryp17/Tablaturi-bg-AngularJS",
+		"images": [
+			"tablaturibg-ng/1.jpg",
+			"tablaturibg-ng/2.jpg",
+			"tablaturibg-ng/3.jpg",
+			"tablaturibg-ng/4.jpg"
+		],
+		"development": "May 2016 - September 2016",
+		"technologies": [
+			"HTML",
+			"CSS (SASS)",
+			"PHP",
+			"cURL",
+			"Custom MVC framework",
+			"MySQL",
+			"AngularJS",
+			"AJAX",
+			"JSON",
+			"jQuery / jQueryUI",
+			"Bootstrap",
+			"Gulp"
+		],
+		"template": "tablaturi-bg-ng.html"
+	},
+	{
+		"title": "Sentiment Metrics",
+		"class": "sentiment-metrics",
+		"background": "#2980b9",
+		"color": "#ffffff",
+		"link": "https://app.sentimentmetrics.com",
+		"images": [
+			"sentiment-metrics/1.png",
+			"sentiment-metrics/2.png",
+			"sentiment-metrics/3.png",
+			"sentiment-metrics/4.png",
+			"sentiment-metrics/5.png",
+			"sentiment-metrics/6.png"
+		],
+		"development": "January 2016 - present",
+		"technologies": [
+			"HTML",
+			"CSS (SASS)",
+			"NodeJS (loopback, Express)",
+			"AngularJS",
+			"MySQL",
+			"jQuery / jQueryUI",
+			"Google Charts",
+			"Bootstrap 4",
+			"Webpack",
+			"Gulp"
+		],
+		"template": "sentiment-metrics.html"
+	},
+	{
+		"title": "Lady Popular",
+		"class": "lady-popular",
+		"background": "#897FBA",
+		"color": "#ffffff",
+		"link": "http://ladypopular.com/",
+		"images": [
+			"lady-popular/1.jpg",
+			"lady-popular/2.jpg",
+			"lady-popular/3.jpg"
+		],
+		"development": "August 2015 - December 2015",
+		"technologies": [
+			"HTML",
+			"CSS",
+			"PHP",
+			"Custom MVC framework / Zend",
+			"PostgreSQL",
+			"Memcached",
+			"Javascript",
+			"AJAX",
+			"JSON",
+			"jQuery"
+		],
+		"template": "lady-popular.html"
+	},
+	{
+		"title": "Top News",
+		"class": "top-news",
+		"background": "#3498db",
+		"color": "#ffffff",
+		"link": "projects/topnews/",
+		"source": "https://github.com/gryp17/Top-News",
+		"images": [
+			"topnews.jpg"
+		],
+		"development": "July 2015 - December 2015",
+		"technologies": [
+			"HTML",
+			"CSS (SASS)",
+			"PHP",
+			"Custom MVC framework",
+			"MySQL",
+			"AngularJS",
+			"AJAX",
+			"JSON",
+			"jQuery",
+			"Grunt"
+		],
+		"template": "top-news.html"
+	},
+	{
+		"title": "Twitch",
+		"class": "twitch",
+		"background": "#019875",
+		"color": "#ffffff",
+		"link": "projects/twitch/",
+		"images": [
+			"twitch/1.jpg",
+			"twitch/2.jpg"
+		],
+		"development": "May 2015",
+		"technologies": [
+			"HTML",
+			"CSS",
+			"CodeIgniter",
+			"RESTful web services",
+			"MySQL",
+			"Javascript",
+			"AJAX",
+			"JSON",
+			"jQuery",
+			"Bootstrap"
+		],
+		"template": "twitch.html"
+	},
+	{
+		"title": "Tablaturi-bg",
+		"class": "tablaturi-bg",
+		"background": "#c0392b",
+		"color": "#ffffff",
+		"link": "http://www.tablaturi-bg.com",
+		"images": [
+			"tablaturibg.jpg"
+		],
+		"development": "January 2014 - September 2014 / March 2015 - May 2015",
+		"technologies": [
+			"HTML",
+			"CSS",
+			"PHP",
+			"Smarty",
+			"MySQL",
+			"Javascript",
+			"AJAX",
+			"JSON",
+			"jQuery / jQueryUI",
+			"Bootstrap"
+		],
+		"template": "tablaturi-bg.html"
+	},
+	{
+		"title": "CrappyBird",
+		"class": "crappybird",
+		"background": "#9b59b6",
+		"color": "#ffffff",
+		"link": "projects/crappybird/",
+		"source": "https://github.com/gryp17/CrappyBird",
+		"images": [
+			"crappy-bird/1.jpg",
+			"crappy-bird/2.jpg"
+		],
+		"development": "August 2014 - September 2014",
+		"technologies": [
+			"HTML5 canvas",
+			"CSS",
+			"PHP",
+			"MySQL",
+			"Javascript",
+			"AJAX",
+			"jQuery"
+		],
+		"template": "crappybird.html"
+	},
+	{
+		"title": "DTD-Export",
+		"class": "dtd-export",
+		"background": "#2ecc71",
+		"color": "#ffffff",
+		"link": "projects/dtd/",
+		"images": [
+			"dtd-export/1.jpg",
+			"dtd-export/2.jpg",
+			"dtd-export/3.jpg"
+		],
+		"development": "November 2013 - January 2014",
+		"technologies": [
+			"HTML",
+			"CSS",
+			"PHP",
+			"Smarty",
+			"Javascript",
+			"AJAX",
+			"JSON",
+			"jQuery / jQueryUI",
+			"Bootstrap"
+		],
+		"template": "dtd-export.html"
+	},
+	{
+		"title": "M<span>&</span>S Peluquerías",
+		"class": "mys-peluquerias",
+		"background": "#ecf0f1",
+		"color": "#000000",
+		"link": "projects/mys/",
+		"images": [
+			"mys-peluquerias/1.jpg",
+			"mys-peluquerias/2.jpg",
+			"mys-peluquerias/3.jpg"
+		],
+		"development": "June 2013 - July 2013",
+		"technologies": [
+			"HTML",
+			"CSS",
+			"PHP",
+			"Smarty",
+			"MySQL",
+			"Javascript",
+			"AJAX",
+			"JSON",
+			"jQuery / jQueryUI",
+			"Bootstrap"
+		],
+		"template": "mys-peluquerias.html"
+	},
+	{
+		"title": "TheHub",
+		"class": "the-hub",
+		"background": "#34495e",
+		"color": "#ffffff",
+		"link": "projects/hub/",
+		"images": [
+			"the-hub/1.jpg",
+			"the-hub/2.jpg"
+		],
+		"development": "March 2013 - May 2013",
+		"technologies": [
+			"HTML",
+			"CSS",
+			"PHP",
+			"Smarty",
+			"MySQL",
+			"Javascript",
+			"XAJAX",
+			"jQuery"
+		],
+		"template": "the-hub.html"
+	},
+	{
+		"title": "jChat",
+		"class": "jchat",
+		"background": "#1abc9c",
+		"color": "#ffffff",
+		"link": "projects/jchat/jChat.rar",
+		"images": [
+			"jchat/1.jpg",
+			"jchat/2.jpg"
+		],
+		"development": "November 2012 - December 2012",
+		"technologies": [
+			"Java",
+			"Sockets"
+		],
+		"template": "jchat.html"
+	},
+	{
+		"title": "M&S Géstion",
+		"class": "mys-gestion",
+		"background": "#bdc3c7",
+		"color": "#000000",
+		"link": "projects/gestion/M&S Gestion.rar",
+		"images": [
+			"gestion.jpg"
+		],
+		"development": "September 2012 - October 2012",
+		"technologies": [
+			"Java",
+			"MySQL"
+		],
+		"template": "mys-gestion.html"
+	},
+	{
+		"title": "jFighter",
+		"class": "jfighter",
+		"background": "#3498db",
+		"color": "#ffffff",
+		"link": "projects/jfighter/",
+		"images": [
+			"jfighter/1.jpg",
+			"jfighter/2.jpg"
+		],
+		"development": "June 2012 - August 2012",
+		"technologies": [
+			"Java"
+		],
+		"template": "jfighter.html"
+	},
+	{
+		"title": "JavaJumper",
+		"class": "javajumper",
+		"background": "#e67e22",
+		"color": "#ffffff",
+		"link": "projects/javajumper/",
+		"images": [
+			"javajumper.jpg"
+		],
+		"development": "January 2012 - March 2012",
+		"technologies": [
+			"Java",
+			"MySQL"
+		],
+		"template": "javajumper.html"
+	}
+]

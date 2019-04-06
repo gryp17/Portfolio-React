@@ -1,0 +1,27 @@
+@import "loading-ring";
+@import "projects-viewer";
+@import "project-info";
+@import "gallery";
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url("public/img/wall.png");
+    color: #ffffff;
+    font-family: Arial;
+}
+
+.portfolio {
+	width: 1024px;
+	margin: auto;
+
+	header{
+		padding: 20px;
+		font-size: 28px;
+		font-weight: bold;
+		text-align: center;
+	}
+}
