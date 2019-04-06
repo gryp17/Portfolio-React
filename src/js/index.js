@@ -22,14 +22,16 @@ class Portfolio extends React.Component {
 	}
 
 	componentDidMount() {
-		//remove the 000webs branding...
-		$("body").find("a[title='Hosted on free web hosting 000webhost.com. Host your own website for FREE.']").remove();
-
 		$.get({
 			url: 'public/projects.json'
 		}).then((projects) => {
 			this.preloadProjects(projects);
 		});
+	}
+
+	componentDidUpdate() {
+		//remove the 000webs branding...
+		$("a[title^='Hosted on']").remove();
 	}
 
 	/**
