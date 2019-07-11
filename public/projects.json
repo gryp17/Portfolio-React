@@ -1,5 +1,58 @@
 [
 	{
+		"title": "One Mind Dogs",
+		"class": "omd",
+		"background": "#653ed3",
+		"color": "#ffffff",
+		"link": "http://www.oneminddogs.com",
+		"images": [
+			"omd/1.jpg",
+			"omd/2.jpg",
+			"omd/3.jpg",
+			"omd/4.jpg",
+			"omd/5.jpg",
+			"omd/6.jpg",
+			"omd/7.jpg",
+			"omd/8.jpg",
+			"omd/9.jpg",
+			"omd/10.jpg"
+		],
+		"development": "October 2018 - present",
+		"technologies": [
+			"React",
+			"Redux",
+			"NodeJS/NextJS",
+			"Python/Django",
+			"CSS (SASS)",
+            "Webpack"
+		],
+		"template": "omd.html"
+	},
+	{
+		"title": "Taloneuvos",
+		"class": "taloneuvos",
+		"background": "#f19737",
+		"color": "#ffffff",
+		"images": [
+			"taloneuvos/1.png",
+			"taloneuvos/2.png",
+			"taloneuvos/3.png",
+			"taloneuvos/4.png",
+			"taloneuvos/5.png",
+			"taloneuvos/6.png",
+			"taloneuvos/7.png",
+			"taloneuvos/8.png"
+		],
+		"development": "October 2018 - May 2019",
+		"technologies": [
+			"Javascript/jQuery",
+			"Umbraco",
+			"CSS (SASS)",
+            "Webpack"
+		],
+		"template": "taloneuvos.html"
+	},
+	{
 		"title": "jFighter JS",
 		"class": "jfighter-js",
 		"background": "#2980b9",
