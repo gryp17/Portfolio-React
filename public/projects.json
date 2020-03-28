@@ -1,5 +1,36 @@
 [
 	{
+		"title": "Tablaturi-bg VueJS",
+		"class": "tablaturi-bg-vue",
+		"background": "#e73333",
+		"color": "#ffffff",
+		"link": "http://www.tablaturi-bg.com",
+		"source": "https://github.com/gryp17/Tablaturi-bg-VueJS",
+		"images": [
+			"tablaturibg-vue/1.jpg",
+			"tablaturibg-vue/2.jpg",
+			"tablaturibg-vue/3.jpg",
+			"tablaturibg-vue/4.jpg",
+			"tablaturibg-vue/5.jpg",
+			"tablaturibg-vue/6.jpg",
+			"tablaturibg-vue/7.jpg"
+		],
+		"development": "January 2020 - March 2020",
+		"technologies": [
+			"HTML",
+			"CSS (SASS)",
+			"PHP",
+			"Custom MVC framework",
+			"MySQL",
+			"VueJS",
+			"Vuex",
+			"jQuery / jQueryUI",
+			"Bootstrap",
+			"Webpack"
+		],
+		"template": "tablaturi-bg-vue.html"
+	},
+	{
 		"title": "One Mind Dogs",
 		"class": "omd",
 		"background": "#653ed3",
