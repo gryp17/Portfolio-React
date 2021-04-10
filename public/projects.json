@@ -1,5 +1,33 @@
 [
 	{
+		"title": "vChat",
+		"class": "v-chat",
+		"background": "#0e9dec",
+		"color": "#ffffff",
+		"link": "https://github.com/gryp17/v-chat-client/releases",
+		"source": "https://github.com/gryp17/v-chat-client",
+		"images": [
+			"v-chat/1.png",
+			"v-chat/2.png",
+			"v-chat/3.png",
+			"v-chat/4.png",
+			"v-chat/5.png",
+			"v-chat/6.png",
+			"v-chat/7.png"
+		],
+		"development": "March 2020 - April 2021",
+		"technologies": [
+			"HTML",
+			"CSS (SASS)",
+			"Electron",
+			"Socket.IO",
+			"VueJS",
+			"Vuex",
+			"Webpack"
+		],
+		"template": "v-chat.html"
+	},
+	{
 		"title": "Tekken Save Scummer",
 		"class": "tekken-save-scummer",
 		"background": "#465A65",
