@@ -138,7 +138,7 @@
 		"class": "jfighter-js",
 		"background": "#2980b9",
 		"color": "#ffffff",
-		"link": "projects/jfighter-js/",
+		"link": "https://jfighter.gryp.dev",
 		"source": "https://github.com/gryp17/JFighter",
 		"images": [
 			"jfighter-js/1.png",
@@ -193,7 +193,6 @@
 		"class": "mdc",
 		"background": "#6C7A89",
 		"color": "#ffffff",
-		"link": "projects/mydictionary/",
 		"source": "https://github.com/gryp17/MyDictionary",
 		"images": [
 			"my-dictionary/1.jpg",
@@ -331,7 +330,6 @@
 		"class": "top-news",
 		"background": "#3498db",
 		"color": "#ffffff",
-		"link": "projects/topnews/",
 		"source": "https://github.com/gryp17/Top-News",
 		"images": [
 			"topnews.jpg"
@@ -356,7 +354,6 @@
 		"class": "twitch",
 		"background": "#019875",
 		"color": "#ffffff",
-		"link": "projects/twitch/",
 		"images": [
 			"twitch/1.jpg",
 			"twitch/2.jpg"
@@ -405,7 +402,7 @@
 		"class": "crappybird",
 		"background": "#9b59b6",
 		"color": "#ffffff",
-		"link": "projects/crappybird/",
+		"link": "https://crappy-bird.gryp.dev",
 		"source": "https://github.com/gryp17/CrappyBird",
 		"images": [
 			"crappy-bird/1.jpg",
@@ -428,7 +425,6 @@
 		"class": "dtd-export",
 		"background": "#2ecc71",
 		"color": "#ffffff",
-		"link": "projects/dtd/",
 		"images": [
 			"dtd-export/1.jpg",
 			"dtd-export/2.jpg",
@@ -453,7 +449,6 @@
 		"class": "mys-peluquerias",
 		"background": "#ecf0f1",
 		"color": "#000000",
-		"link": "projects/mys/",
 		"images": [
 			"mys-peluquerias/1.jpg",
 			"mys-peluquerias/2.jpg",
@@ -479,7 +474,6 @@
 		"class": "the-hub",
 		"background": "#34495e",
 		"color": "#ffffff",
-		"link": "projects/hub/",
 		"images": [
 			"the-hub/1.jpg",
 			"the-hub/2.jpg"
@@ -535,7 +529,7 @@
 		"class": "jfighter",
 		"background": "#3498db",
 		"color": "#ffffff",
-		"link": "projects/jfighter/",
+		"link": "projects/jfighter/jfighter.rar",
 		"images": [
 			"jfighter/1.jpg",
 			"jfighter/2.jpg"
@@ -551,7 +545,6 @@
 		"class": "javajumper",
 		"background": "#e67e22",
 		"color": "#ffffff",
-		"link": "projects/javajumper/",
 		"images": [
 			"javajumper.jpg"
 		],
