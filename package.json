@@ -11,10 +11,10 @@
   "author": "Plamen Ivanov",
   "license": "ISC",
   "dependencies": {
+    "classnames": "^2.2.6",
     "jquery": "^3.4.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "classnames": "^2.2.6",
     "webpack": "^4.29.6"
   },
   "devDependencies": {
@@ -28,7 +28,7 @@
     "babel-preset-react": "^6.11.1",
     "babel-register": "^6.9.0",
     "css-loader": "^2.1.1",
-    "node-sass": "^4.9.0",
+    "node-sass": "^4.14.1",
     "postcss-loader": "^2.1.5",
     "sass-loader": "^7.0.3",
     "style-loader": "^0.21.0",
