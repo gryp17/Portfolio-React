@@ -4,7 +4,7 @@
 		"class": "v-chat",
 		"background": "#0e9dec",
 		"color": "#ffffff",
-		"link": "https://github.com/gryp17/v-chat-client/releases",
+		"link": "https://v-chat.gryp.dev",
 		"source": "https://github.com/gryp17/v-chat-client",
 		"images": [
 			"v-chat/1.png",
