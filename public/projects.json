@@ -188,32 +188,6 @@
 		],
 		"template": "tic-tac-toe.html"
 	},
-    {
-		"title": "My Dictionary",
-		"class": "mdc",
-		"background": "#6C7A89",
-		"color": "#ffffff",
-		"source": "https://github.com/gryp17/MyDictionary",
-		"images": [
-			"my-dictionary/1.jpg",
-			"my-dictionary/2.jpg"
-		],
-		"development": "January 2018",
-		"technologies": [
-			"HTML",
-			"CSS",
-			"PHP",
-			"Custom MVC framework",
-			"MySQL",
-			"AngularJS",
-			"AJAX",
-			"JSON",
-			"jQuery",
-			"Bootstrap 4",
-			"Flexbox"
-		],
-		"template": "my-dictionary.html"
-	},
 	{
 		"title": "Social Command Center",
 		"class": "scc",
