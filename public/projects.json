@@ -156,7 +156,7 @@
 			"CSS (SASS)",
 			"Javascript",
 			"jQuery",
-            "Gulp"
+            "Webpack"
 		],
 		"template": "jfighter-js.html"
 	},
@@ -166,6 +166,7 @@
 		"background": "#27ae60",
 		"color": "#ffffff",
 		"source": "https://github.com/gryp17/Tic-Tac-Toe",
+		"link": "https://tic-tac-toe.gryp.dev",
 		"images": [
 			"tic-tac-toe/1.jpg",
             "tic-tac-toe/2.jpg",
@@ -184,7 +185,7 @@
 			"AJAX",
 			"JSON",
 			"Bootstrap 3",
-            "Gulp"
+            "Webpack"
 		],
 		"template": "tic-tac-toe.html"
 	},
